@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "39916805ecb60c144f6a3bc531bfb7ff539f32d8",
+    "author": "Bruno Nicenboim <bruno.nicenboim@gmail.com>",
+    "time": "2026-01-13T15:59:45Z",
+    "files": 1,
+    "merge": false,
+    "message": "fix DOI"
+  },
+  "repo": "https://github.com/ropensci/pangoling",
+  "pkg": "pangoling",
+  "time": "2026-08-30T07:18:22Z"
+}
